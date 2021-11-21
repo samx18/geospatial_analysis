@@ -1,0 +1,5 @@
+config.json
+*.zip
+AwsData/
+ca_lakes/
+CA_Counties/
