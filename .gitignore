@@ -3,3 +3,5 @@ config.json
 AwsData/
 ca_lakes/
 CA_Counties/
+.ipynb_checkpoints/
+.DS_Store
