@@ -1,4 +1,7 @@
+
 # Getting Started with Geospatial Data Analysis
+
+![Lake Shasta](./images/lake-shasta.png "Lake Shasta")
 
 This is the code repository for the blog post "Getting Started With Geospatial Analysis on SageMaker Studio Lab".
 
@@ -12,9 +15,9 @@ The datasets used are publicly available geographic datasets and then explore th
 
 ## Prerequisites
 
-    - A SageMaker Studio Lab account
-    - A Free Tier AWS account (For keys to download data from S3)
-    - A free Sentinel Hub account 
+- A SageMaker Studio Lab account
+- A Free Tier AWS account (For keys to download data from S3)
+- A free Sentinel Hub account 
 
 ## Environment
 
