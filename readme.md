@@ -3,7 +3,7 @@
 
 This is the code repository for the blog post "Getting Started With Geospatial Analysis on SageMaker Studio Lab".
 
-[Lake Shasta](https://github.com/samx18/geospatial_analysis/blob/main/images/lake_shasta.png)
+![Lake Shasta](https://github.com/samx18/geospatial_analysis/blob/main/images/lake_shasta.png)
 
 ## Data
 
