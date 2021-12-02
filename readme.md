@@ -1,7 +1,7 @@
 
 # Getting Started with Geospatial Data Analysis
 
-![Lake Shasta](./images/lake-shasta.png "Lake Shasta")
+![Lake Shasta](/images/lake-shasta.png "Lake Shasta")
 
 This is the code repository for the blog post "Getting Started With Geospatial Analysis on SageMaker Studio Lab".
 
