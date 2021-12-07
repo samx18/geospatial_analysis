@@ -1,7 +1,7 @@
 
 # Getting Started with Geospatial Data Analysis
 
-This is the code repository for the blog post "Getting Started With Geospatial Analysis on SageMaker Studio Lab".
+This is the code repository for the blog post [Getting Started With Geospatial Analysis on SageMaker Studio Lab](https://towardsdatascience.com/getting-started-with-geospatial-analysis-b2116c50308b).
 
 ![Lake Shasta](https://github.com/samx18/geospatial_analysis/blob/main/images/lake_shasta.png)
 
